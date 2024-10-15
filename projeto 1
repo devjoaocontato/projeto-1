@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu Site de Programação</title>
+</head>
+<body>
+    <h1>Esse é meu primeiro Site</h1>
+    <p>Eu vou ser um programador de sucesso!</p>
+   
+    <a href="https://youtube.com/@techjao" target="_blank">
+    <button>Da um cliquezinho<span style="color: green;"> aqui</span> pra eu ver se vc não é um robô</button></a>
+        
+    <a href="https://google.com" target="_blank">
+    <button>Da um cliquezin <span style="color: red;">aqui</span> mano</button></a>
+
+    <ul>
+        <li>Notebooks</li>
+        <li>Computadores</li>
+        <li>Smartphones</li>
+    </ul>
+
+    <ol>
+        <li>Limpar</li>
+        <li>Abrir</li>
+        <li>Reparar</li>
+        <li>Finalizar</li>
+        
+    
+    
+</body>
+</html>
